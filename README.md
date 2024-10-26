@@ -151,7 +151,7 @@ Metode : <br>
 <b>5. Main.java (Kelas Main)</b>
 
 ``` java
-public class Main {
+public class Utama {
     public static void main(String[] args) {
         // Membuat objek dari kelas Lingkaran, Segitiga, dan Persegi
         Lingkaran lingkaran = new Lingkaran(7);
@@ -166,7 +166,7 @@ public class Main {
 }
 ```
 
-Ini adalah kelas Main yang berisi metode ```main()```, yaitu titik awal program dieksekusi. <br>
+Ini adalah kelas Utama yang berisi metode ```main()```, yaitu titik awal program dieksekusi. <br>
 
 Objek : <br>
 Membuat instance dari kelas ```Lingkaran```, ```Segitiga```, dan ```Persegi```, dengan parameter seperti jari-jari (untuk ```Lingkaran```), alas dan tinggi (untuk ```Segitiga```), serta panjang sisi (untuk ```Persegi```). <br>

@@ -148,7 +148,7 @@ Metode : <br>
 ```keliling()``` menghitung keliling dengan rumus : <b>4 × sisi</b>. <br> <br> <br>
 
 
-<b>5. Main.java (Kelas Main)</b>
+<b>5. Utama.java (Kelas Utama)</b>
 
 ``` java
 public class Utama {
